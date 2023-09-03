@@ -2,25 +2,29 @@
   {
     "id": 1,
     "title": "Apples",
-    "description": "Apples are <span class=\"label label-info\">25 CHF each</span>",
-    "price": 25
+    "description": "Apples are <span class=\"label label-info\">25 cents each</span>",
+    "price": 25,
+	"image": "https://media.istockphoto.com/id/184276818/photo/red-apple.jpg?b=1&s=612x612&w=0&k=20&c=TBBd7De6JAG56-Wz8vrwIFqxnZ0KctXFZCFsmsBK8Xk="
   },
   {
     "id": 2,
     "title": "Oranges",
-    "description": "Oranges are <span class=\"label label-info\">30 CHF each</span>",
-    "price": 30
+    "description": "Oranges are <span class=\"label label-info\">30 cents each</span>",
+    "price": 30,
+	"image": "https://www.telegraph.co.uk/multimedia/archive/01834/orange_1834038b.jpg"
   },
   {
     "id": 3,
     "title": "Garlic",
-    "description": "Garlic are <span class=\"label label-info\">15 CHF each</span>",
-    "price": 15
+    "description": "Garlic are <span class=\"label label-info\">15 cents each</span>",
+    "price": 15,
+	"image": "https://cdn11.bigcommerce.com/s-ori7tua078/images/stencil/original/products/12856/13398/Garlic__86611.1608136108.jpg?c=1"
   },
   {
     "id": 4,
     "title": "Papayas",
-    "description": "Papayas are <span class=\"label label-info\">50 CHF each</span>, but are <span class=\"label label-warning\">available as 3 for the price of 2</span>",
-    "price": 100
+    "description": "Papayas are <span class=\"label label-info\">50 cents each</span>, but are <span class=\"label label-warning\">available as 3 for the price of 2</span>",
+    "price": 100,
+	"image": "https://www.aldi.us/fileadmin/_processed_/6/e/csm_Papaya_2D_c7df3ea74d.jpg"
   }
 ]

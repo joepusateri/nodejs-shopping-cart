@@ -21,14 +21,14 @@ Create a new feature flag with the settings:
 - Key: `display-images`
 - Flag variations: `Boolean`
 - Variation 1:
--- Value: true
--- Name: `Show small image` 
+	- Value: true
+	- Name: `Show small image` 
 - Variation 2:
--- Value: false
--- Name: `No image`
+	- Value: false
+	- Name: `No image`
 - Default Variations:
--- ON: true
--- OFF: false
+	- ON: true
+	- OFF: false
 
 Save the flag.
 
